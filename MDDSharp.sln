@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDDSharp", "MDDSharp\MDDSharp.csproj", "{335CEAD9-D810-45F3-A30F-5829C7586B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMDDSharp", "TestMDDSharp\TestMDDSharp.csproj", "{CE7AAC77-BA58-45C5-93E8-8DB868167B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335CEAD9-D810-45F3-A30F-5829C7586B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335CEAD9-D810-45F3-A30F-5829C7586B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335CEAD9-D810-45F3-A30F-5829C7586B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335CEAD9-D810-45F3-A30F-5829C7586B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7AAC77-BA58-45C5-93E8-8DB868167B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7AAC77-BA58-45C5-93E8-8DB868167B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7AAC77-BA58-45C5-93E8-8DB868167B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7AAC77-BA58-45C5-93E8-8DB868167B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
